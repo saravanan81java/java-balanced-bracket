@@ -49,6 +49,7 @@ public final static char OPEN_PARENTHES = '(', CLOSE_PARENTHES = ')';
     }
 
     public static void main(String[] args) {
+        
         // Test cases  
     	// Parentheses - ()
     	// Square Bracket - []
